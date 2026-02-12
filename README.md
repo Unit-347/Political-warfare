@@ -22,6 +22,9 @@ Which brings me to the go to tactic for anyone willing to conduct political warf
 
 Since division is the key part of political warfare, it should come as no surprise to say that all tactics used in political warfare boil down to either encouraging the division in the enemy or strenghtening the unity in your own groups.
 
+## Fragmentation
+A timeline is a set of emotions that make up a worldview, each emotion is associated with a cognitive function. So a worldview from that perspective is a combination of thoughts that people share, whenever people share these thoughts they are united and part of the same metacognition, mood or group identity. Fragmentation is when the thoughts of individuals/parts of the group are starting to shift away from the others. Slowly but surely, people are drifting apart.
+
 ## Vectors
 Groups end up being divided whenever their timelines start fragmenting off of one another. This fragmentation can either happen naturally due to disagreement or can be accelerated due to additional pressures.
 ![Fragmentation](https://github.com/Treagle350/Political-warfare/blob/main/Images/Timeline%20fragmentation.gif)
